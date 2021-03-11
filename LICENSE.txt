@@ -2,7 +2,7 @@ I don't have a good license for this  yet.
 
 Here is license:
 
-But please don't copy it to make youtube/other monteizable videos with the same
+But please don't copy it to make youtube/other monetizable videos with the same
 content. I am making this open source so people can add comments, get value and
 hopefully learn Lua better. Please repsect that and at least attribute stuff to
 me if you get inspiration from this.
