@@ -1,0 +1,7 @@
+You need to make `init.lua`
+
+explain
+- package.path
+- package.*
+- require()
+- etc.
