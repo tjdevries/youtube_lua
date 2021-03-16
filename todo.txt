@@ -1,0 +1,4 @@
+- `do end` blocks
+    - namespacing
+    - hiding variables
+    - enclosing state.

@@ -1,0 +1,2 @@
+-- TODO: should talk about an event loop after we talk about coroutines.
+-- this is like in every game... so probably useful for a bunch of peeps
